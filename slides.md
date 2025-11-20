@@ -35,11 +35,10 @@ style: |
     opacity: 0.95;
   }
 ---
----
-
-backgroundImage: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80"
+backgroundImage: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80')
 backgroundSize: cover
 backgroundPosition: center
+---
 
 # Product Vision
 
